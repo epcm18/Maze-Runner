@@ -8,7 +8,7 @@ Figure 1 below entering at cell (2,0) and exiting at cell (11,13). Your solution
 stack.
 
 Figure 1
-![Figure 1](/Maze-Runner/blob/master/maze.PNG))
+![Figure 1](/maze.PNG))
 
 
 When you navigate through the maze, print the steps that you take in the following manner. An
